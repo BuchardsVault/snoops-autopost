@@ -11,8 +11,10 @@
       "tweet_url": "https://x.com/SnoopsRoulette/status/2119550051043495954",
       "posted_at": "2026-11-08T13:58:05-08:00",
       "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-08-test.jpg",
-      "ig_status": "skip",
-      "tiktok_status": "pending"
+      "ig_status": "posted",
+      "tiktok_status": "scheduled",
+      "ig_media_id": "18141336235623055",
+      "tiktok_metricool_id": 421157970
     },
     {
       "id": "2026-11-09-1",
