@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": "2026-11-09-1",
+      "date": "2026-11-09",
+      "slot": 1,
+      "text": "you can't keep doubling down on someone who keeps folding on you",
+      "to_instagram": false,
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-09-2",
+      "date": "2026-11-09",
+      "slot": 2,
+      "text": "my 9 to 5 is the safe bet. my side hustle is the parlay. only one of them is ever gonna pay out big",
+      "to_instagram": true,
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-09-3",
+      "date": "2026-11-09",
+      "slot": 3,
+      "text": "family will tell you it's too risky then ask for a cut when it hits",
+      "to_instagram": false,
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-09-4",
+      "date": "2026-11-09",
+      "slot": 4,
+      "text": "stopped chasing my losses. that goes for money and people",
+      "to_instagram": true,
+      "status": "queued"
+    }
+  ]
+}
