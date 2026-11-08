@@ -45,7 +45,10 @@ def wrap(draw, text, font, max_w):
 def avatar(cfg, size, theme):
     path = os.path.join(ROOT, cfg.get("avatar", "assets/avatar.png"))
     if os.path.exists(path):
-        img = Image.open(path).convert("RGB").resize((size, size))
+        img = Image.open(path).convert("RGB")
+        side = min(img.size)  # center-crop to square so non-square photos aren't squashed
+        left, top = (img.width - side) // 2, (img.height - side) // 2
+        img = img.crop((left, top, left + side, top + side)).resize((size, size), Image.LANCZOS)
     else:  # placeholder: initials on a gray circle
         img = Image.new("RGB", (size, size), (51, 54, 57) if theme == "dark" else (207, 217, 222))
         d = ImageDraw.Draw(img)

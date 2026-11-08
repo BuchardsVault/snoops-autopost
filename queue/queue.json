@@ -1,6 +1,14 @@
 {
   "posts": [
     {
+      "id": "2026-11-08-test",
+      "date": "2026-11-08",
+      "slot": 0,
+      "text": "every relationship is a bet. some of y'all still sitting at the table waiting on a hand that's never coming",
+      "to_instagram": false,
+      "status": "queued"
+    },
+    {
       "id": "2026-11-09-1",
       "date": "2026-11-09",
       "slot": 1,
