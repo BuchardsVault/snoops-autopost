@@ -26,8 +26,10 @@
       "tweet_url": "https://x.com/SnoopsRoulette/status/2119786855088419192",
       "posted_at": "2026-11-09T05:39:04-08:00",
       "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-09-1.jpg",
-      "ig_status": "pending",
-      "tiktok_status": "pending"
+      "ig_status": "posted",
+      "tiktok_status": "pending",
+      "ig_media_id": "18358946572173727",
+      "ig_roll": 2
     },
     {
       "id": "2026-11-09-2",
@@ -35,7 +37,8 @@
       "slot": 2,
       "vibe": "gambler",
       "text": "you ever bet on somebody so hard you forgot to put a single chip on yourself",
-      "status": "queued"
+      "status": "queued",
+      "ig_status": "skip"
     },
     {
       "id": "2026-11-09-3",
