@@ -7,15 +7,17 @@ screenshot-style card of it goes to Instagram and TikTok.
 
 | When | What | Runs in |
 |---|---|---|
-| Morning | Write the day's 4 quotes into `queue/queue.json` | Claude scheduled task |
-| 8am, 12pm, 5pm, 9pm | Post next quote to X, render card to `docs/cards/` | GitHub Actions (`post-x.yml`) |
-| 12:30pm, 9:30pm | Post the slot-2 and slot-4 cards to Instagram | Claude scheduled task, via Windsor.ai |
-| 10pm | Post all 4 of the day's cards as one TikTok photo post | Claude scheduled task, via Metricool |
+| 8am, 12pm, 5pm, 9pm | Post next quote to X, render card (with the tweet's real timestamp) to `docs/cards/` | GitHub Actions (`post-x.yml`) |
+| 1:07pm | Instagram carousel of slots 1+2, caption `Roll #N` | Claude scheduled task (`prompts/instagram_post.md`) |
+| 10:07pm | Instagram carousel of slots 3+4, caption `Roll #N` | Claude scheduled task (`prompts/instagram_post.md`) |
+| 10:37pm | TikTok photo post of all 4 cards, then write tomorrow's 4 quotes | Claude scheduled task (`prompts/nightly.md`) |
+
+Quote voice and the weekly-shuffled daily vibe: `prompts/quote_style.md`, `scripts/vibe.py`.
 
 ## Queue item fields
 
 - `status`: `queued` -> `posted_x`
-- `to_instagram`: marks the 2 per day that also go to Instagram
+- `vibe`: the day's vibe (gambler, dark humor, street wisdom, calm philosophical, stoic)
 - `ig_status` / `tiktok_status`: `pending` -> `posted` (or `skip`)
 - `image_url`: GitHub Pages URL of the card
 

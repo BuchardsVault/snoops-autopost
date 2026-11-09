@@ -51,6 +51,21 @@ def post_tweet(text):
     return r.json()["data"]["id"]
 
 
+X_EPOCH_MS = 1288834974657  # Twitter snowflake epoch
+
+
+def tweet_time(tweet_id):
+    """Exact creation time encoded in the tweet ID, in Pacific time."""
+    ms = (int(tweet_id) >> 22) + X_EPOCH_MS
+    return datetime.fromtimestamp(ms / 1000, TZ)
+
+
+def x_timestamp(dt):
+    """Format like X's own screenshots: '9:08 PM · Nov 8, 2026'."""
+    hour = dt.strftime("%I").lstrip("0")
+    return f"{hour}:{dt:%M} {dt:%p} · {dt:%b} {dt.day}, {dt.year}"
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
@@ -76,19 +91,20 @@ def main():
     card_rel = f"docs/cards/{item['id']}.jpg"
     out = os.path.join(ROOT, card_rel)
     if args.dry_run:
-        render(text, "/tmp/dryrun.jpg")
+        render(text, "/tmp/dryrun.jpg", timestamp=x_timestamp(now))
         print(f"[dry-run] would post {item['id']}: {text!r} -> /tmp/dryrun.jpg")
         return
 
     tweet_id = post_tweet(text)
-    render(text, out)
+    posted = tweet_time(tweet_id)
+    render(text, out, timestamp=x_timestamp(posted))
     item.update({
         "status": "posted_x",
         "tweet_id": tweet_id,
         "tweet_url": f"https://x.com/{cfg['handle']}/status/{tweet_id}",
-        "posted_at": now.isoformat(timespec="seconds"),
+        "posted_at": posted.isoformat(timespec="seconds"),
         "image_url": f"{cfg['pages_base_url']}/cards/{item['id']}.jpg",
-        "ig_status": "pending" if item.get("to_instagram") else "skip",
+        "ig_status": "pending",
         "tiktok_status": "pending",
     })
     save_queue(q)

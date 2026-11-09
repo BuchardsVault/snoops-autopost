@@ -67,7 +67,8 @@ def draw_verified(draw, x, y, s):
               fill=(255, 255, 255), width=max(3, s // 8), joint="curve")
 
 
-def render(text, out, theme=None):
+def render(text, out, theme=None, timestamp=None):
+    """timestamp: preformatted string like '9:08 PM · Nov 8, 2026' (X's own format)."""
     cfg = load_config()
     theme = theme or cfg.get("theme", "dark")
     c = THEMES[theme]
@@ -87,7 +88,9 @@ def render(text, out, theme=None):
     av = 120
     header_h = av
     gap = 48
-    block_h = header_h + gap + len(lines) * line_h
+    ts_f = ImageFont.truetype(FONT_REG, 34)
+    ts_h = 34 + 40 if timestamp else 0
+    block_h = header_h + gap + len(lines) * line_h + ts_h
     top = (H - block_h) // 2
 
     a_img, a_mask = avatar(cfg, av, theme)
@@ -105,6 +108,8 @@ def render(text, out, theme=None):
     for ln in lines:
         d.text((margin, y), ln, font=body, fill=c["text"])
         y += line_h
+    if timestamp:
+        d.text((margin, y + 40), timestamp, font=ts_f, fill=c["muted"])
 
     os.makedirs(os.path.dirname(os.path.abspath(out)), exist_ok=True)
     img.save(out, "JPEG", quality=92)
@@ -116,5 +121,6 @@ if __name__ == "__main__":
     ap.add_argument("--text", required=True)
     ap.add_argument("--out", required=True)
     ap.add_argument("--theme", choices=["dark", "light"])
+    ap.add_argument("--timestamp", help="e.g. '9:08 PM · Nov 8, 2026'")
     a = ap.parse_args()
-    print(render(a.text, a.out, a.theme))
+    print(render(a.text, a.out, a.theme, a.timestamp))

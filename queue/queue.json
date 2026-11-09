@@ -5,7 +5,6 @@
       "date": "2026-11-08",
       "slot": 0,
       "text": "every relationship is a bet. some of y'all still sitting at the table waiting on a hand that's never coming",
-      "to_instagram": false,
       "status": "posted_x",
       "tweet_id": "2119550051043495954",
       "tweet_url": "https://x.com/SnoopsRoulette/status/2119550051043495954",
@@ -20,32 +19,32 @@
       "id": "2026-11-09-1",
       "date": "2026-11-09",
       "slot": 1,
-      "text": "you can't keep doubling down on someone who keeps folding on you",
-      "to_instagram": false,
+      "vibe": "gambler",
+      "text": "i'd rather go all in and lose than spend my whole life betting the minimum and calling it peace",
       "status": "queued"
     },
     {
       "id": "2026-11-09-2",
       "date": "2026-11-09",
       "slot": 2,
-      "text": "my 9 to 5 is the safe bet. my side hustle is the parlay. only one of them is ever gonna pay out big",
-      "to_instagram": true,
+      "vibe": "gambler",
+      "text": "you ever bet on somebody so hard you forgot to put a single chip on yourself",
       "status": "queued"
     },
     {
       "id": "2026-11-09-3",
       "date": "2026-11-09",
       "slot": 3,
-      "text": "family will tell you it's too risky then ask for a cut when it hits",
-      "to_instagram": false,
+      "vibe": "gambler",
+      "text": "my family calls it reckless right up until the bet hits. then suddenly it's \"we always believed in you\"",
       "status": "queued"
     },
     {
       "id": "2026-11-09-4",
       "date": "2026-11-09",
       "slot": 4,
-      "text": "stopped chasing my losses. that goes for money and people",
-      "to_instagram": true,
+      "vibe": "gambler",
+      "text": "if you can't walk away from the table it's not a game anymore. same goes for jobs and people",
       "status": "queued"
     }
   ]
