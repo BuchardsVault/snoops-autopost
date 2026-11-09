@@ -32,10 +32,20 @@ def save_queue(q):
         f.write("\n")
 
 
-def next_item(q, today):
-    queued = [p for p in q["posts"] if p["status"] == "queued" and p["date"] <= today]
-    queued.sort(key=lambda p: (p["date"], p["slot"]))
-    return queued[0] if queued else None
+# Slot -> Pacific posting time. A quote is never posted before its slot time,
+# so a run GitHub delays (sometimes by hours) can't post the next day's quote early.
+SLOT_TIMES = {0: (0, 0), 1: (8, 0), 2: (12, 0), 3: (17, 0), 4: (21, 0)}
+
+
+def due_at(p):
+    h, m = SLOT_TIMES[p["slot"]]
+    return datetime.fromisoformat(p["date"]).replace(hour=h, minute=m, tzinfo=TZ)
+
+
+def next_item(q, now):
+    due = [p for p in q["posts"] if p["status"] == "queued" and due_at(p) <= now]
+    due.sort(key=lambda p: (p["date"], p["slot"]))
+    return due[0] if due else None
 
 
 def post_tweet(text):
@@ -74,9 +84,9 @@ def main():
     cfg = load_config()
     q = load_queue()
     now = datetime.now(TZ)
-    item = next_item(q, now.strftime("%Y-%m-%d"))
+    item = next_item(q, now)
     if not item:
-        print("Queue empty for today: nothing to post.")
+        print("Nothing due yet: no queued quote has reached its slot time.")
         return
 
     text = item["text"].strip()

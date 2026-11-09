@@ -7,10 +7,10 @@ screenshot-style card of it goes to Instagram and TikTok.
 
 | When | What | Runs in |
 |---|---|---|
-| 8am, 12pm, 5pm, 9pm | Post next quote to X, render card (with the tweet's real timestamp) to `docs/cards/` | GitHub Actions (`post-x.yml`) |
+| 8am, 12pm, 5pm, 9pm (+ backup runs) | Post the due quote to X (never before its slot time), render card (with the tweet's real timestamp) to `docs/cards/` | GitHub Actions (`post-x.yml`) |
 | 1:07pm | Instagram carousel of slots 1+2, caption `Roll #N` | Claude scheduled task (`prompts/instagram_post.md`) |
 | 10:07pm | Instagram carousel of slots 3+4, caption `Roll #N` | Claude scheduled task (`prompts/instagram_post.md`) |
-| 10:37pm | TikTok photo post of all 4 cards, then write tomorrow's 4 quotes | Claude scheduled task (`prompts/nightly.md`) |
+| 10:37pm | TikTok photo post of all 4 cards (`Roll #N` + 5 hashtags), then write tomorrow's 4 quotes | Claude scheduled task (`prompts/nightly.md`) |
 
 Quote voice and the weekly-shuffled daily vibe: `prompts/quote_style.md`, `scripts/vibe.py`.
 

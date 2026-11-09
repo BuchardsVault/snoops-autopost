@@ -9,13 +9,24 @@
    - If any have `tiktok_status: scheduled` already, skip to Part 2: this run
      already happened.
 3. N = `tiktok` counter + 1.
-4. Schedule with Metricool `createScheduledPost`: blogId `7911679`, date = now +
+4. Build the TikTok caption: `Roll #N` + a blank line + 5 hashtags on one line.
+   - Always include `#snoopsroulette` and `#fyp`.
+   - Pick 3 more from the lists below that fit today's quotes and vibe.
+   - Vary the picks from day to day; don't reuse yesterday's exact set.
+   - Topic tags: #relationships #relatable #quotes #lifelessons #mindset
+     #situationship #loyalty #family #money #grind #realtalk #motivation
+     #deepthoughts #toxicrelationships #selfgrowth
+   - Vibe tags: gambler: #takerisks #allin. Dark humor: #darkhumor #relatablememes.
+     Street wisdom: #streetwisdom #realquotes. Calm philosophical: #philosophy
+     #deepquotes. Stoic: #stoicism #stoic.
+   - Example: `Roll #7\n\n#snoopsroulette #fyp #relationships #allin #realtalk`
+5. Schedule with Metricool `createScheduledPost`: blogId `7911679`, date = now +
    5 minutes (America/Los_Angeles, not in the past), `providers`
    `[{"network":"tiktok"}]`, `media` = the items' `image_url`s in slot order,
-   `text` "Roll #N", and `tiktokData`
-   `{"title":"Roll #N","privacyOption":"PUBLIC_TO_EVERYONE","autoAddMusic":true,"photoCoverIndex":0}`
+   `text` = the caption from step 4, and `tiktokData`
+   `{"title":"Roll #N" (title only, no hashtags),"privacyOption":"PUBLIC_TO_EVERYONE","autoAddMusic":true,"photoCoverIndex":0}`
    with the other tiktokData flags false.
-5. On success: set those items' `tiktok_status` to `scheduled`,
+6. On success: set those items' `tiktok_status` to `scheduled`,
    `tiktok_metricool_id`, and `tiktok_roll` to N, and set the `tiktok` counter
    to N. Commit "TikTok Roll #N" and push.
    On error: don't change the counter, and report the exact error. If it

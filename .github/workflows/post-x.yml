@@ -2,12 +2,19 @@ name: Post to X
 
 on:
   schedule:
-    # GitHub cron is UTC. These are 8am, 12pm, 5pm, 9pm Pacific Standard Time.
-    # During daylight time (Mar-Nov) they land one hour later; shift by -1h then.
-    - cron: "0 16 * * *"
-    - cron: "0 20 * * *"
-    - cron: "0 1 * * *"
-    - cron: "0 5 * * *"
+    # GitHub cron is UTC and often runs late (sometimes hours), worst on the hour.
+    # Slots are 8am, 12pm, 5pm, 9pm Pacific (PST). Each slot has a run at :03 and a
+    # backup at :43. post_x.py never posts a quote before its slot time, and an
+    # already-posted slot is skipped, so extra or late runs are safe.
+    # During daylight time (Mar-Nov) shift every hour by -1.
+    - cron: "3 16 * * *"
+    - cron: "43 16 * * *"
+    - cron: "3 20 * * *"
+    - cron: "43 20 * * *"
+    - cron: "3 1 * * *"
+    - cron: "43 1 * * *"
+    - cron: "3 5 * * *"
+    - cron: "43 5 * * *"
   workflow_dispatch:
     inputs:
       dry_run:
