@@ -24,7 +24,8 @@
    5 minutes (America/Los_Angeles, not in the past), `providers`
    `[{"network":"tiktok"}]`, `media` = the items' `image_url`s in slot order,
    `text` = the caption from step 4, and `tiktokData`
-   `{"title":"Roll #N" (title only, no hashtags),"privacyOption":"PUBLIC_TO_EVERYONE","autoAddMusic":true,"photoCoverIndex":0}`
+   `{"title":"Roll #N","privacyOption":"PUBLIC_TO_EVERYONE","autoAddMusic":true,"photoCoverIndex":0}`
+   (the `title` is just `Roll #N`; the hashtags go only in `text`)
    with the other tiktokData flags false.
 6. On success: set those items' `tiktok_status` to `scheduled`,
    `tiktok_metricool_id`, and `tiktok_roll` to N, and set the `tiktok` counter
