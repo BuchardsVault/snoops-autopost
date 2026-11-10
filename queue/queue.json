@@ -75,6 +75,38 @@
       "text": "if you can't walk away from the table it's not a game anymore. same goes for jobs and people",
       "status": "queued",
       "ig_status": "skip"
+    },
+    {
+      "id": "2026-11-10-1",
+      "date": "2026-11-10",
+      "slot": 1,
+      "vibe": "street wisdom",
+      "text": "watch who only pulls up a chair when you're winning. the ones who sat with you through the cold streak are the only ones getting a cut",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-10-2",
+      "date": "2026-11-10",
+      "slot": 2,
+      "vibe": "street wisdom",
+      "text": "your boss is the house. he don't need you to lose big, he just needs you to keep showing up thinking the next raise is one more hand away",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-10-3",
+      "date": "2026-11-10",
+      "slot": 3,
+      "vibe": "street wisdom",
+      "text": "learned the hard way: not everybody at the family table is on your side. some of them just want to see what you're holding",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-10-4",
+      "date": "2026-11-10",
+      "slot": 4,
+      "vibe": "street wisdom",
+      "text": "a snake never shows his hand early. he lets you talk, counts your chips, and waits for you to get comfortable",
+      "status": "queued"
     }
   ]
 }
