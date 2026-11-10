@@ -56,8 +56,10 @@
       "tweet_url": "https://x.com/SnoopsRoulette/status/2119987002586132493",
       "posted_at": "2026-11-09T18:54:23-08:00",
       "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-09-3.jpg",
-      "ig_status": "pending",
-      "tiktok_status": "pending"
+      "ig_status": "posted",
+      "tiktok_status": "pending",
+      "ig_media_id": "17961758589231037",
+      "ig_roll": 3
     },
     {
       "id": "2026-11-09-4",
@@ -65,7 +67,8 @@
       "slot": 4,
       "vibe": "gambler",
       "text": "if you can't walk away from the table it's not a game anymore. same goes for jobs and people",
-      "status": "queued"
+      "status": "queued",
+      "ig_status": "skip"
     }
   ]
 }
