@@ -101,7 +101,13 @@
       "slot": 2,
       "vibe": "street wisdom",
       "text": "your boss is the house. he don't need you to lose big, he just needs you to keep showing up thinking the next raise is one more hand away",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2120274464776802347",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2120274464776802347",
+      "posted_at": "2026-11-10T13:56:39-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-10-2.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     },
     {
       "id": "2026-11-10-3",
