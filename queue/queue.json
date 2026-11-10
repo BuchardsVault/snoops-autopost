@@ -37,8 +37,13 @@
       "slot": 2,
       "vibe": "gambler",
       "text": "you ever bet on somebody so hard you forgot to put a single chip on yourself",
-      "status": "queued",
-      "ig_status": "skip"
+      "status": "posted_x",
+      "ig_status": "pending",
+      "tweet_id": "2119983141150396839",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2119983141150396839",
+      "posted_at": "2026-11-09T18:39:02-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-09-2.jpg",
+      "tiktok_status": "pending"
     },
     {
       "id": "2026-11-09-3",
