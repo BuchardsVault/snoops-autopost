@@ -87,7 +87,13 @@
       "slot": 1,
       "vibe": "street wisdom",
       "text": "watch who only pulls up a chair when you're winning. the ones who sat with you through the cold streak are the only ones getting a cut",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2120271720674205955",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2120271720674205955",
+      "posted_at": "2026-11-10T13:45:45-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-10-1.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     },
     {
       "id": "2026-11-10-2",
