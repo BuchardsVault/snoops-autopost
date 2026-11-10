@@ -73,8 +73,13 @@
       "slot": 4,
       "vibe": "gambler",
       "text": "if you can't walk away from the table it's not a game anymore. same goes for jobs and people",
-      "status": "queued",
-      "ig_status": "skip"
+      "status": "posted_x",
+      "ig_status": "pending",
+      "tweet_id": "2120065122781515866",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2120065122781515866",
+      "posted_at": "2026-11-10T00:04:48-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-09-4.jpg",
+      "tiktok_status": "pending"
     },
     {
       "id": "2026-11-10-1",
