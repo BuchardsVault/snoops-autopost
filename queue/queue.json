@@ -133,7 +133,13 @@
       "slot": 4,
       "vibe": "street wisdom",
       "text": "a snake never shows his hand early. he lets you talk, counts your chips, and waits for you to get comfortable",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2120432219609288833",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2120432219609288833",
+      "posted_at": "2026-11-11T00:23:31-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-10-4.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     },
     {
       "id": "2026-11-11-1",
