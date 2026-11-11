@@ -40,14 +40,16 @@
       "vibe": "gambler",
       "text": "you ever bet on somebody so hard you forgot to put a single chip on yourself",
       "status": "posted_x",
-      "ig_status": "pending",
+      "ig_status": "posted",
       "tweet_id": "2119983141150396839",
       "tweet_url": "https://x.com/SnoopsRoulette/status/2119983141150396839",
       "posted_at": "2026-11-09T18:39:02-08:00",
       "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-09-2.jpg",
       "tiktok_status": "scheduled",
       "tiktok_metricool_id": 422779756,
-      "tiktok_roll": 2
+      "tiktok_roll": 2,
+      "ig_media_id": "17916568047472618",
+      "ig_roll": 4
     },
     {
       "id": "2026-11-09-3",
@@ -74,12 +76,16 @@
       "vibe": "gambler",
       "text": "if you can't walk away from the table it's not a game anymore. same goes for jobs and people",
       "status": "posted_x",
-      "ig_status": "pending",
+      "ig_status": "posted",
       "tweet_id": "2120065122781515866",
       "tweet_url": "https://x.com/SnoopsRoulette/status/2120065122781515866",
       "posted_at": "2026-11-10T00:04:48-08:00",
       "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-09-4.jpg",
-      "tiktok_status": "pending"
+      "tiktok_status": "scheduled",
+      "ig_media_id": "17916568047472618",
+      "ig_roll": 4,
+      "tiktok_metricool_id": 424649258,
+      "tiktok_roll": 4
     },
     {
       "id": "2026-11-10-1",
@@ -92,10 +98,12 @@
       "tweet_url": "https://x.com/SnoopsRoulette/status/2120271720674205955",
       "posted_at": "2026-11-10T13:45:45-08:00",
       "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-10-1.jpg",
-      "ig_status": "pending",
+      "ig_status": "posted",
       "tiktok_status": "scheduled",
       "tiktok_metricool_id": 424060581,
-      "tiktok_roll": 3
+      "tiktok_roll": 3,
+      "ig_media_id": "18174069688462182",
+      "ig_roll": 5
     },
     {
       "id": "2026-11-10-2",
@@ -108,10 +116,12 @@
       "tweet_url": "https://x.com/SnoopsRoulette/status/2120274464776802347",
       "posted_at": "2026-11-10T13:56:39-08:00",
       "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-10-2.jpg",
-      "ig_status": "pending",
+      "ig_status": "posted",
       "tiktok_status": "scheduled",
       "tiktok_metricool_id": 424060581,
-      "tiktok_roll": 3
+      "tiktok_roll": 3,
+      "ig_media_id": "18174069688462182",
+      "ig_roll": 5
     },
     {
       "id": "2026-11-10-3",
@@ -124,8 +134,12 @@
       "tweet_url": "https://x.com/SnoopsRoulette/status/2120420045767520504",
       "posted_at": "2026-11-10T23:35:09-08:00",
       "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-10-3.jpg",
-      "ig_status": "pending",
-      "tiktok_status": "pending"
+      "ig_status": "posted",
+      "tiktok_status": "scheduled",
+      "ig_media_id": "17988603243095265",
+      "ig_roll": 6,
+      "tiktok_metricool_id": 424649258,
+      "tiktok_roll": 4
     },
     {
       "id": "2026-11-10-4",
@@ -138,8 +152,12 @@
       "tweet_url": "https://x.com/SnoopsRoulette/status/2120432219609288833",
       "posted_at": "2026-11-11T00:23:31-08:00",
       "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-10-4.jpg",
-      "ig_status": "pending",
-      "tiktok_status": "pending"
+      "ig_status": "posted",
+      "tiktok_status": "scheduled",
+      "ig_media_id": "17988603243095265",
+      "ig_roll": 6,
+      "tiktok_metricool_id": 424649258,
+      "tiktok_roll": 4
     },
     {
       "id": "2026-11-11-1",
