@@ -93,7 +93,9 @@
       "posted_at": "2026-11-10T13:45:45-08:00",
       "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-10-1.jpg",
       "ig_status": "pending",
-      "tiktok_status": "pending"
+      "tiktok_status": "scheduled",
+      "tiktok_metricool_id": 424060581,
+      "tiktok_roll": 3
     },
     {
       "id": "2026-11-10-2",
@@ -107,7 +109,9 @@
       "posted_at": "2026-11-10T13:56:39-08:00",
       "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-10-2.jpg",
       "ig_status": "pending",
-      "tiktok_status": "pending"
+      "tiktok_status": "scheduled",
+      "tiktok_metricool_id": 424060581,
+      "tiktok_roll": 3
     },
     {
       "id": "2026-11-10-3",
