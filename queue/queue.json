@@ -165,7 +165,13 @@
       "slot": 1,
       "vibe": "stoic",
       "text": "you can't control who folds on you. you can control whether you keep dealing them back in",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2120554773502185823",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2120554773502185823",
+      "posted_at": "2026-11-11T08:30:30-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-11-1.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     },
     {
       "id": "2026-11-11-2",
