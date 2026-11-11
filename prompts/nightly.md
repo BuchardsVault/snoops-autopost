@@ -1,13 +1,15 @@
 # Nightly run (10:37pm Pacific): TikTok post + tomorrow's quotes
 
-## Part 1: TikTok (all of today's tweets in one photo post)
+## Part 1: TikTok (every card on X but not yet on TikTok, in one photo post)
 1. `git pull`, then load `queue/queue.json` and `queue/roll_counters.json`.
    Today = the current date in America/Los_Angeles.
-2. Collect today's items (`date` = today, not the `-test` item) that have
-   `status: posted_x` and `tiktok_status: pending`, in slot order.
-   - If none, skip to Part 2 and report it.
-   - If any have `tiktok_status: scheduled` already, skip to Part 2: this run
-     already happened.
+2. Collect the backlog: every item (not a `-test` item) with `status: posted_x`,
+   an `image_url`, `tiktok_status: pending`, and `date` within the last 3 days
+   (today, or up to 3 days before), sorted by date then slot. This catches up on
+   X posts that GitHub ran late after an earlier nightly run.
+   - Items with `tiktok_status: scheduled` are never posted again.
+   - If the backlog is empty, skip to Part 2 and report it.
+   - At most 10 images per post; leave any extra for the next night.
 3. N = `tiktok` counter + 1.
 4. Build the TikTok caption: `Roll #N` + a blank line + 5 hashtags on one line.
    - Always include `#snoopsroulette` and `#fyp`.
