@@ -128,6 +128,38 @@
       "vibe": "street wisdom",
       "text": "a snake never shows his hand early. he lets you talk, counts your chips, and waits for you to get comfortable",
       "status": "queued"
+    },
+    {
+      "id": "2026-11-11-1",
+      "date": "2026-11-11",
+      "slot": 1,
+      "vibe": "stoic",
+      "text": "you can't control who folds on you. you can control whether you keep dealing them back in",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-11-2",
+      "date": "2026-11-11",
+      "slot": 2,
+      "vibe": "stoic",
+      "text": "the raise didn't come. fine. i don't get mad at the dealer, i just get sharper with my next move and quieter about it",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-11-3",
+      "date": "2026-11-11",
+      "slot": 3,
+      "vibe": "stoic",
+      "text": "can't choose the family you got dealt. you can choose how you play that hand and what you refuse to pass down",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-11-4",
+      "date": "2026-11-11",
+      "slot": 4,
+      "vibe": "stoic",
+      "text": "the loss already happened. replaying it every night in your head is just paying the house twice",
+      "status": "queued"
     }
   ]
 }
