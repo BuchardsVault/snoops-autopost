@@ -219,7 +219,13 @@
       "slot": 4,
       "vibe": "stoic",
       "text": "the loss already happened. replaying it every night in your head is just paying the house twice",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2120789293614674179",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2120789293614674179",
+      "posted_at": "2026-11-12T00:02:24-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-11-4.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     },
     {
       "id": "2026-11-12-1",
