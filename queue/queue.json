@@ -220,6 +220,38 @@
       "vibe": "stoic",
       "text": "the loss already happened. replaying it every night in your head is just paying the house twice",
       "status": "queued"
+    },
+    {
+      "id": "2026-11-12-1",
+      "date": "2026-11-12",
+      "slot": 1,
+      "vibe": "dark humor",
+      "text": "my ex said i was scared to commit. ma'am i went all in on you holding a pair of twos, nobody has ever been more committed to a losing hand",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-12-2",
+      "date": "2026-11-12",
+      "slot": 2,
+      "vibe": "dark humor",
+      "text": "got a 3% raise and prices went up 5%. i'm the only person who can win a hand at work and still leave the table with less than i sat down with",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-12-3",
+      "date": "2026-11-12",
+      "slot": 3,
+      "vibe": "dark humor",
+      "text": "every holiday my family reshuffles the whole deck just to deal me the same hand again: \"so when you getting a real job\"",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-12-4",
+      "date": "2026-11-12",
+      "slot": 4,
+      "vibe": "dark humor",
+      "text": "i don't have trust issues, i have receipts. every time i went all in on somebody the house won and i still tipped the dealer on the way out",
+      "status": "queued"
     }
   ]
 }
