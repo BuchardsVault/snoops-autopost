@@ -323,7 +323,13 @@
       "slot": 2,
       "vibe": "street wisdom",
       "text": "never tell people at work what you're holding. the same coworker hyping your idea at lunch will play it in the meeting like it was his hand",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2121333065301610737",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2121333065301610737",
+      "posted_at": "2026-11-13T12:03:09-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-13-2.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     },
     {
       "id": "2026-11-13-3",
