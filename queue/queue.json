@@ -267,7 +267,13 @@
       "slot": 3,
       "vibe": "dark humor",
       "text": "every holiday my family reshuffles the whole deck just to deal me the same hand again: \"so when you getting a real job\"",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2121046170558480766",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2121046170558480766",
+      "posted_at": "2026-11-12T17:03:08-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-12-3.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     },
     {
       "id": "2026-11-12-4",
