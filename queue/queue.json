@@ -302,6 +302,38 @@
       "ig_roll": 10,
       "tiktok_metricool_id": 426594387,
       "tiktok_roll": 6
+    },
+    {
+      "id": "2026-11-13-1",
+      "date": "2026-11-13",
+      "slot": 1,
+      "vibe": "street wisdom",
+      "text": "if they only call when their hand goes cold, you're not their person. you're their backup chips",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-13-2",
+      "date": "2026-11-13",
+      "slot": 2,
+      "vibe": "street wisdom",
+      "text": "never tell people at work what you're holding. the same coworker hyping your idea at lunch will play it in the meeting like it was his hand",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-13-3",
+      "date": "2026-11-13",
+      "slot": 3,
+      "vibe": "street wisdom",
+      "text": "the cousin who calls you blood the loudest is usually the first one asking to borrow from your pot. family taught me to love them and count my chips",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-13-4",
+      "date": "2026-11-13",
+      "slot": 4,
+      "vibe": "street wisdom",
+      "text": "stop showing your whole hand to people who never once showed you theirs. that ain't trust, that's you playing open while they play closed",
+      "status": "queued"
     }
   ]
 }
