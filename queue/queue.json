@@ -374,6 +374,38 @@
       "ig_roll": 12,
       "tiktok_metricool_id": 427776886,
       "tiktok_roll": 7
+    },
+    {
+      "id": "2026-11-14-1",
+      "date": "2026-11-14",
+      "slot": 1,
+      "vibe": "dark humor",
+      "text": "she said she needed space so i gave her the whole table. now she's sitting there with a new player and i'm in the parking lot doing math on where i misplayed",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-14-2",
+      "date": "2026-11-14",
+      "slot": 2,
+      "vibe": "dark humor",
+      "text": "my job calls it a \"growth opportunity\" when they hand me a second person's workload for the same pay. the house found a way to raise the stakes without raising the payout",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-14-3",
+      "date": "2026-11-14",
+      "slot": 3,
+      "vibe": "dark humor",
+      "text": "my parents swear they don't have a favorite. they just bet on my sister early and kept doubling down every time i walked up to the table",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-14-4",
+      "date": "2026-11-14",
+      "slot": 4,
+      "vibe": "dark humor",
+      "text": "the odds of me texting first after a fight are like 37 to 1. somehow i hit it every single time. luckiest loser alive",
+      "status": "queued"
     }
   ]
 }
