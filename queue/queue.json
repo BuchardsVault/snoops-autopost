@@ -453,7 +453,13 @@
       "slot": 1,
       "vibe": "calm philosophical",
       "text": "maybe love was never about picking the right number. maybe it's about who's still standing next to you while the wheel is spinning",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2121997445655662916",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2121997445655662916",
+      "posted_at": "2026-11-15T08:03:10-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-15-1.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     },
     {
       "id": "2026-11-15-2",
