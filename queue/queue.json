@@ -413,7 +413,13 @@
       "slot": 3,
       "vibe": "dark humor",
       "text": "my parents swear they don't have a favorite. they just bet on my sister early and kept doubling down every time i walked up to the table",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2121770935141453911",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2121770935141453911",
+      "posted_at": "2026-11-14T17:03:06-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-14-3.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     },
     {
       "id": "2026-11-14-4",
