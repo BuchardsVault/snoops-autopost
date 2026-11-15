@@ -427,7 +427,13 @@
       "slot": 4,
       "vibe": "dark humor",
       "text": "the odds of me texting first after a fight are like 37 to 1. somehow i hit it every single time. luckiest loser alive",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2121831361514230197",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2121831361514230197",
+      "posted_at": "2026-11-14T21:03:12-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-14-4.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     }
   ]
 }
