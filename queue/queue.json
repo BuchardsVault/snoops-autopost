@@ -499,7 +499,13 @@
       "slot": 4,
       "vibe": "calm philosophical",
       "text": "most of the bets that changed my life didn't feel like bets at the time. they felt like a regular tuesday. a text i almost didn't send, a door i almost didn't open",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2122193724155560134",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2122193724155560134",
+      "posted_at": "2026-11-15T21:03:06-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-15-4.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     }
   ]
 }
