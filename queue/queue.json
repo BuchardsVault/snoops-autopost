@@ -539,7 +539,13 @@
       "slot": 2,
       "vibe": "street wisdom",
       "text": "a promotion your boss keeps promising is chips you can't cash. i stopped staying late for a payout that only exists while he's talking",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2122429364839096450",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2122429364839096450",
+      "posted_at": "2026-11-16T12:39:28-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-16-2.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     },
     {
       "id": "2026-11-16-3",
