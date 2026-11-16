@@ -485,7 +485,13 @@
       "slot": 3,
       "vibe": "calm philosophical",
       "text": "i used to think my parents were bad at the game. now i'm their age and i get it, they were playing a hand nobody ever explained to them",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2122133302714994733",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2122133302714994733",
+      "posted_at": "2026-11-15T17:03:01-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-15-3.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     },
     {
       "id": "2026-11-15-4",
