@@ -525,7 +525,13 @@
       "slot": 1,
       "vibe": "street wisdom",
       "text": "watch who gets quiet when you start winning. the ones who only liked you broke were never in your corner, they were just betting against you from a closer seat",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2122359998579699794",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2122359998579699794",
+      "posted_at": "2026-11-16T08:03:49-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-16-1.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     },
     {
       "id": "2026-11-16-2",
