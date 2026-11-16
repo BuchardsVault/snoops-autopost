@@ -518,6 +518,38 @@
       "ig_roll": 16,
       "tiktok_metricool_id": 429647893,
       "tiktok_roll": 9
+    },
+    {
+      "id": "2026-11-16-1",
+      "date": "2026-11-16",
+      "slot": 1,
+      "vibe": "street wisdom",
+      "text": "watch who gets quiet when you start winning. the ones who only liked you broke were never in your corner, they were just betting against you from a closer seat",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-16-2",
+      "date": "2026-11-16",
+      "slot": 2,
+      "vibe": "street wisdom",
+      "text": "a promotion your boss keeps promising is chips you can't cash. i stopped staying late for a payout that only exists while he's talking",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-16-3",
+      "date": "2026-11-16",
+      "slot": 3,
+      "vibe": "street wisdom",
+      "text": "real family don't keep score at the table. if every favor you ever did gets brought back up at thanksgiving, that wasn't love, that was a loan with interest",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-16-4",
+      "date": "2026-11-16",
+      "slot": 4,
+      "vibe": "street wisdom",
+      "text": "loyalty is cheap when the stack is high. you find out who's really with you the night you're down to your last chip and somebody still pulls up a chair",
+      "status": "queued"
     }
   ]
 }
