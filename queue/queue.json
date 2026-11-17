@@ -611,7 +611,13 @@
       "slot": 2,
       "vibe": "dark humor",
       "text": "i treat my job like a casino. walk in broke, stay way longer than i planned, and leave convinced tomorrow is the day it finally pays out",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2122782610963456291",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2122782610963456291",
+      "posted_at": "2026-11-17T12:03:08-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-17-2.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     },
     {
       "id": "2026-11-17-3",
