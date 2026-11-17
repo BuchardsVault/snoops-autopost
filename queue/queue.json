@@ -590,6 +590,38 @@
       "ig_roll": 18,
       "tiktok_metricool_id": 431057035,
       "tiktok_roll": 10
+    },
+    {
+      "id": "2026-11-17-1",
+      "date": "2026-11-17",
+      "slot": 1,
+      "vibe": "dark humor",
+      "text": "my love life is a slot machine that only pays out in lessons. i've learned enough to teach a class and i still go home alone every night",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-17-2",
+      "date": "2026-11-17",
+      "slot": 2,
+      "vibe": "dark humor",
+      "text": "i treat my job like a casino. walk in broke, stay way longer than i planned, and leave convinced tomorrow is the day it finally pays out",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-17-3",
+      "date": "2026-11-17",
+      "slot": 3,
+      "vibe": "dark humor",
+      "text": "my family group chat is a poker table where everybody's bluffing that they're doing fine, and the only honest player is grandma asking who took her tupperware",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-17-4",
+      "date": "2026-11-17",
+      "slot": 4,
+      "vibe": "dark humor",
+      "text": "i don't have a type. i have a losing streak that keeps showing up with the same haircut",
+      "status": "queued"
     }
   ]
 }
