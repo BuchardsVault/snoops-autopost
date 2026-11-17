@@ -571,7 +571,13 @@
       "slot": 4,
       "vibe": "street wisdom",
       "text": "loyalty is cheap when the stack is high. you find out who's really with you the night you're down to your last chip and somebody still pulls up a chair",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2122556039124148712",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2122556039124148712",
+      "posted_at": "2026-11-16T21:02:49-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-16-4.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     }
   ]
 }
