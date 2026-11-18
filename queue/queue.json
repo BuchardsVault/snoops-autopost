@@ -643,7 +643,13 @@
       "slot": 4,
       "vibe": "dark humor",
       "text": "i don't have a type. i have a losing streak that keeps showing up with the same haircut",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2122918481826107691",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2122918481826107691",
+      "posted_at": "2026-11-17T21:03:02-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-17-4.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     }
   ]
 }
