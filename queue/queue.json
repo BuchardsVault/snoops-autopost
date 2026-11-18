@@ -629,7 +629,13 @@
       "slot": 3,
       "vibe": "dark humor",
       "text": "my family group chat is a poker table where everybody's bluffing that they're doing fine, and the only honest player is grandma asking who took her tupperware",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2122858079155073237",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2122858079155073237",
+      "posted_at": "2026-11-17T17:03:01-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-17-3.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     },
     {
       "id": "2026-11-17-4",
