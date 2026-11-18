@@ -662,6 +662,38 @@
       "ig_roll": 20,
       "tiktok_metricool_id": 432439989,
       "tiktok_roll": 11
+    },
+    {
+      "id": "2026-11-18-1",
+      "date": "2026-11-18",
+      "slot": 1,
+      "vibe": "gambler",
+      "text": "stop calling it patience. you've been holding the same bad hand for two years because folding means admitting you misread the table",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-18-2",
+      "date": "2026-11-18",
+      "slot": 2,
+      "vibe": "gambler",
+      "text": "i left the safe job and bet on myself. worst case i lose. best case i never have to ask somebody's permission to take a lunch break again",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-18-3",
+      "date": "2026-11-18",
+      "slot": 3,
+      "vibe": "gambler",
+      "text": "my family taught me to play it safe. then i watched them play it safe for 30 years and never once see the dealer flip a card their way",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-18-4",
+      "date": "2026-11-18",
+      "slot": 4,
+      "vibe": "gambler",
+      "text": "if your hands aren't shaking when you push all in, you didn't bet enough. goes for love, business, and every risky text i ever hit send on",
+      "status": "queued"
     }
   ]
 }
