@@ -669,7 +669,13 @@
       "slot": 1,
       "vibe": "gambler",
       "text": "stop calling it patience. you've been holding the same bad hand for two years because folding means admitting you misread the table",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2123084695365931238",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2123084695365931238",
+      "posted_at": "2026-11-18T08:03:31-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-18-1.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     },
     {
       "id": "2026-11-18-2",
