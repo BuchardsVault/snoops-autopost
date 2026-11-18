@@ -683,7 +683,13 @@
       "slot": 2,
       "vibe": "gambler",
       "text": "i left the safe job and bet on myself. worst case i lose. best case i never have to ask somebody's permission to take a lunch break again",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2123144951349354558",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2123144951349354558",
+      "posted_at": "2026-11-18T12:02:57-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-18-2.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     },
     {
       "id": "2026-11-18-3",
