@@ -734,6 +734,38 @@
       "ig_roll": 22,
       "tiktok_metricool_id": 433824053,
       "tiktok_roll": 12
+    },
+    {
+      "id": "2026-11-19-1",
+      "date": "2026-11-19",
+      "slot": 1,
+      "vibe": "calm philosophical",
+      "text": "some people only sit down for one hand, not the whole night. took me years to stop calling it a loss when somebody got up from the table and just learn to say thanks for the game",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-19-2",
+      "date": "2026-11-19",
+      "slot": 2,
+      "vibe": "calm philosophical",
+      "text": "nobody tells you the job you settled for at 22 is still a bet. every year you stay, you're raising on the same cards and calling it stability",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-19-3",
+      "date": "2026-11-19",
+      "slot": 3,
+      "vibe": "calm philosophical",
+      "text": "the older i get the more i catch my parents' habits showing up in how i play. turns out you don't just inherit the chips, you inherit the way they were bet",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-19-4",
+      "date": "2026-11-19",
+      "slot": 4,
+      "vibe": "calm philosophical",
+      "text": "every version of my life i used to mourn was just another spin of the same wheel. you can't really miss a number you never had a chip on",
+      "status": "queued"
     }
   ]
 }
