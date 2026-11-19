@@ -675,9 +675,11 @@
       "posted_at": "2026-11-18T08:03:31-08:00",
       "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-18-1.jpg",
       "ig_status": "posted",
-      "tiktok_status": "pending",
+      "tiktok_status": "scheduled",
       "ig_media_id": "18121442899995291",
-      "ig_roll": 21
+      "ig_roll": 21,
+      "tiktok_metricool_id": 433824053,
+      "tiktok_roll": 12
     },
     {
       "id": "2026-11-18-2",
@@ -691,9 +693,11 @@
       "posted_at": "2026-11-18T12:02:57-08:00",
       "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-18-2.jpg",
       "ig_status": "posted",
-      "tiktok_status": "pending",
+      "tiktok_status": "scheduled",
       "ig_media_id": "18121442899995291",
-      "ig_roll": 21
+      "ig_roll": 21,
+      "tiktok_metricool_id": 433824053,
+      "tiktok_roll": 12
     },
     {
       "id": "2026-11-18-3",
@@ -707,9 +711,11 @@
       "posted_at": "2026-11-18T17:03:17-08:00",
       "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-18-3.jpg",
       "ig_status": "posted",
-      "tiktok_status": "pending",
+      "tiktok_status": "scheduled",
       "ig_media_id": "17974047189183263",
-      "ig_roll": 22
+      "ig_roll": 22,
+      "tiktok_metricool_id": 433824053,
+      "tiktok_roll": 12
     },
     {
       "id": "2026-11-18-4",
@@ -723,9 +729,11 @@
       "posted_at": "2026-11-18T21:03:06-08:00",
       "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-18-4.jpg",
       "ig_status": "posted",
-      "tiktok_status": "pending",
+      "tiktok_status": "scheduled",
       "ig_media_id": "17974047189183263",
-      "ig_roll": 22
+      "ig_roll": 22,
+      "tiktok_metricool_id": 433824053,
+      "tiktok_roll": 12
     }
   ]
 }
