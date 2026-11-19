@@ -755,7 +755,13 @@
       "slot": 2,
       "vibe": "calm philosophical",
       "text": "nobody tells you the job you settled for at 22 is still a bet. every year you stay, you're raising on the same cards and calling it stability",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2123507347859321163",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2123507347859321163",
+      "posted_at": "2026-11-19T12:02:59-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-19-2.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     },
     {
       "id": "2026-11-19-3",
