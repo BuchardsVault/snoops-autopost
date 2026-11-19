@@ -715,7 +715,13 @@
       "slot": 4,
       "vibe": "gambler",
       "text": "if your hands aren't shaking when you push all in, you didn't bet enough. goes for love, business, and every risky text i ever hit send on",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2123280884497313831",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2123280884497313831",
+      "posted_at": "2026-11-18T21:03:06-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-18-4.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     }
   ]
 }
