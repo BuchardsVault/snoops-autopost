@@ -806,6 +806,38 @@
       "ig_roll": 24,
       "tiktok_metricool_id": 435179993,
       "tiktok_roll": 13
+    },
+    {
+      "id": "2026-11-20-1",
+      "date": "2026-11-20",
+      "slot": 1,
+      "vibe": "dark humor",
+      "text": "dating now is putting your whole stack on somebody's good morning text and finding out you were one of six players at that table",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-20-2",
+      "date": "2026-11-20",
+      "slot": 2,
+      "vibe": "dark humor",
+      "text": "asked my manager about a raise and he said \"not this quarter.\" it's been eleven quarters. i'm not an employee anymore, i'm a chair the house forgot to take out",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-20-3",
+      "date": "2026-11-20",
+      "slot": 3,
+      "vibe": "dark humor",
+      "text": "my mom still introduces me as \"the one who was gonna be a doctor.\" grown adult and i'm still the bet she lost in front of the whole family",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-20-4",
+      "date": "2026-11-20",
+      "slot": 4,
+      "vibe": "dark humor",
+      "text": "checked my bank account and it didn't even show a balance, just said \"house wins.\" didn't bother giving me odds this time",
+      "status": "queued"
     }
   ]
 }
