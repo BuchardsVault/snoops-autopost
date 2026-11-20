@@ -813,7 +813,13 @@
       "slot": 1,
       "vibe": "dark humor",
       "text": "dating now is putting your whole stack on somebody's good morning text and finding out you were one of six players at that table",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2123809451560067271",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2123809451560067271",
+      "posted_at": "2026-11-20T08:03:26-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-20-1.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     },
     {
       "id": "2026-11-20-2",
