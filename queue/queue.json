@@ -859,7 +859,13 @@
       "slot": 4,
       "vibe": "dark humor",
       "text": "checked my bank account and it didn't even show a balance, just said \"house wins.\" didn't bother giving me odds this time",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2124005749135118647",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2124005749135118647",
+      "posted_at": "2026-11-20T21:03:27-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-20-4.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     }
   ]
 }
