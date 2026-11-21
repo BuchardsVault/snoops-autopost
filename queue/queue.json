@@ -845,7 +845,13 @@
       "slot": 3,
       "vibe": "dark humor",
       "text": "my mom still introduces me as \"the one who was gonna be a doctor.\" grown adult and i'm still the bet she lost in front of the whole family",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2123945239282958616",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2123945239282958616",
+      "posted_at": "2026-11-20T17:03:00-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-20-3.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     },
     {
       "id": "2026-11-20-4",
