@@ -878,6 +878,38 @@
       "ig_roll": 26,
       "tiktok_metricool_id": 436426422,
       "tiktok_roll": 14
+    },
+    {
+      "id": "2026-11-21-1",
+      "date": "2026-11-21",
+      "slot": 1,
+      "vibe": "stoic",
+      "text": "she folded on me mid-hand. i didn't flip the table or beg for a rematch, i just stacked what i had left and let her walk. losing a player isn't losing the game",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-21-2",
+      "date": "2026-11-21",
+      "slot": 2,
+      "vibe": "stoic",
+      "text": "got passed over again. no speech, no sulking. went back to my desk and played the next hand like the last one never happened. the house can take a round, not my composure",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-21-3",
+      "date": "2026-11-21",
+      "slot": 3,
+      "vibe": "stoic",
+      "text": "my family will always have opinions on how i play my cards. i let them talk. they don't hold my chips and they won't be the ones living with my bets",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-21-4",
+      "date": "2026-11-21",
+      "slot": 4,
+      "vibe": "stoic",
+      "text": "used to react to every card that hit the table. now i let the bad ones land without saying a word. not everything life deals you deserves a response",
+      "status": "queued"
     }
   ]
 }
