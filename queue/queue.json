@@ -950,6 +950,38 @@
       "ig_roll": 28,
       "tiktok_metricool_id": 437314284,
       "tiktok_roll": 15
+    },
+    {
+      "id": "2026-11-22-1",
+      "date": "2026-11-22",
+      "slot": 1,
+      "vibe": "street wisdom",
+      "text": "the person you're with shows you who they are the first time you lose a hand in front of them. some grab your hand, some start checking the exits. believe the first reaction",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-22-2",
+      "date": "2026-11-22",
+      "slot": 2,
+      "vibe": "street wisdom",
+      "text": "never show the whole table your hand. the same people clapping for your raise at work are the ones quietly counting your chips when you step away",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-22-3",
+      "date": "2026-11-22",
+      "slot": 3,
+      "vibe": "street wisdom",
+      "text": "family knows exactly which card hurts you most, that's why it always hits harder coming from them. love your people, but still watch the deck",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-22-4",
+      "date": "2026-11-22",
+      "slot": 4,
+      "vibe": "street wisdom",
+      "text": "lend money to a friend and you just bet on two things at once. if you're lucky you only lose the cash. if you're not, you lose both",
+      "status": "queued"
     }
   ]
 }
