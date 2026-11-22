@@ -971,7 +971,13 @@
       "slot": 2,
       "vibe": "street wisdom",
       "text": "never show the whole table your hand. the same people clapping for your raise at work are the ones quietly counting your chips when you step away",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2124594650237276217",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2124594650237276217",
+      "posted_at": "2026-11-22T12:03:32-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-22-2.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     },
     {
       "id": "2026-11-22-3",
