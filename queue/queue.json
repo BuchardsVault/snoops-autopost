@@ -1022,6 +1022,38 @@
       "ig_roll": 30,
       "tiktok_metricool_id": 438348642,
       "tiktok_roll": 16
+    },
+    {
+      "id": "2026-11-23-1",
+      "date": "2026-11-23",
+      "slot": 1,
+      "vibe": "calm philosophical",
+      "text": "some people were the right card dealt in the wrong round. it wasn't a bad bet, it was bad timing. you can make peace with timing in a way you never can with regret",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-23-2",
+      "date": "2026-11-23",
+      "slot": 2,
+      "vibe": "calm philosophical",
+      "text": "money taught me what the table already knew. you can play every hand right and still lose the night. all you really control is whether you'd make the same call again",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-23-3",
+      "date": "2026-11-23",
+      "slot": 3,
+      "vibe": "calm philosophical",
+      "text": "the house i grew up in was built on bets my grandparents made before i existed. i'm living off odds they took. makes me wonder who'll be sitting at a table because of mine",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-23-4",
+      "date": "2026-11-23",
+      "slot": 4,
+      "vibe": "calm philosophical",
+      "text": "you don't lose people all at once. it's a slow fold, one unanswered text at a time, until you look up and realize their seat at your table has been empty for a while",
+      "status": "queued"
     }
   ]
 }
