@@ -1003,7 +1003,13 @@
       "slot": 4,
       "vibe": "street wisdom",
       "text": "lend money to a friend and you just bet on two things at once. if you're lucky you only lose the cash. if you're not, you lose both",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2124730389512216884",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2124730389512216884",
+      "posted_at": "2026-11-22T21:02:55-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-22-4.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     }
   ]
 }
