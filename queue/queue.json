@@ -1101,7 +1101,13 @@
       "slot": 1,
       "vibe": "dark humor",
       "text": "my situationship is a scratch-off that says \"try again\" every single time and somehow i keep going back to the counter for another one",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2125259013113975239",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2125259013113975239",
+      "posted_at": "2026-11-24T08:03:28-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-24-1.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     },
     {
       "id": "2026-11-24-2",
