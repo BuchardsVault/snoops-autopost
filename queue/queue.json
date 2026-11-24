@@ -1115,7 +1115,13 @@
       "slot": 2,
       "vibe": "dark humor",
       "text": "my coworkers keep telling me to bet on myself. i've seen my work. i wouldn't take those odds and i'm the guy who has to live with them",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2125319376752812409",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2125319376752812409",
+      "posted_at": "2026-11-24T12:03:20-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-24-2.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     },
     {
       "id": "2026-11-24-3",
