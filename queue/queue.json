@@ -1075,7 +1075,13 @@
       "slot": 4,
       "vibe": "calm philosophical",
       "text": "you don't lose people all at once. it's a slow fold, one unanswered text at a time, until you look up and realize their seat at your table has been empty for a while",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2125092833279307926",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2125092833279307926",
+      "posted_at": "2026-11-23T21:03:08-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-23-4.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     }
   ]
 }
