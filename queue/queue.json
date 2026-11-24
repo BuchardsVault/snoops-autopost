@@ -1094,6 +1094,38 @@
       "ig_roll": 32,
       "tiktok_metricool_id": 439863103,
       "tiktok_roll": 17
+    },
+    {
+      "id": "2026-11-24-1",
+      "date": "2026-11-24",
+      "slot": 1,
+      "vibe": "dark humor",
+      "text": "my situationship is a scratch-off that says \"try again\" every single time and somehow i keep going back to the counter for another one",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-24-2",
+      "date": "2026-11-24",
+      "slot": 2,
+      "vibe": "dark humor",
+      "text": "my coworkers keep telling me to bet on myself. i've seen my work. i wouldn't take those odds and i'm the guy who has to live with them",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-24-3",
+      "date": "2026-11-24",
+      "slot": 3,
+      "vibe": "dark humor",
+      "text": "my family doesn't need a fantasy league, they've got a running pool on which cousin moves back home next. i've been the favorite three years straight",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-24-4",
+      "date": "2026-11-24",
+      "slot": 4,
+      "vibe": "dark humor",
+      "text": "people ask why i'm still single like i haven't been at this table for years. i'm not unlucky, i'm a regular. the house knows my name and still won't comp me a drink",
+      "status": "queued"
     }
   ]
 }
