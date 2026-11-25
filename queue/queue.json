@@ -1166,6 +1166,38 @@
       "ig_roll": 34,
       "tiktok_metricool_id": 441318166,
       "tiktok_roll": 18
+    },
+    {
+      "id": "2026-11-25-1",
+      "date": "2026-11-25",
+      "slot": 1,
+      "vibe": "gambler",
+      "text": "i'll always say it first. if you fold, i lost one hand. if you don't, i just won the whole night. either way i'm not sitting here acting like i don't want the pot",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-25-2",
+      "date": "2026-11-25",
+      "slot": 2,
+      "vibe": "gambler",
+      "text": "they offered me more to stay. i looked at the table, same dealer, same deck, same cold cards. pushed back my chair and cashed out. best hand i ever played was walking",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-25-3",
+      "date": "2026-11-25",
+      "slot": 3,
+      "vibe": "gambler",
+      "text": "every family has one person who doubles down when everybody else folds. at my thanksgiving table that's me, and i'm carving the turkey the year it hits",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-25-4",
+      "date": "2026-11-25",
+      "slot": 4,
+      "vibe": "gambler",
+      "text": "y'all read long odds like a warning. i read them like an invitation. 1 in 100 just means somebody gets to be the 1, and i already pulled up a chair",
+      "status": "queued"
     }
   ]
 }
