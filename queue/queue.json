@@ -1147,7 +1147,13 @@
       "slot": 4,
       "vibe": "dark humor",
       "text": "people ask why i'm still single like i haven't been at this table for years. i'm not unlucky, i'm a regular. the house knows my name and still won't comp me a drink",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2125455184910585892",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2125455184910585892",
+      "posted_at": "2026-11-24T21:02:59-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-24-4.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     }
   ]
 }
