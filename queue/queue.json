@@ -1178,8 +1178,10 @@
       "tweet_url": "https://x.com/SnoopsRoulette/status/2125621670790729858",
       "posted_at": "2026-11-25T08:04:33-08:00",
       "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-25-1.jpg",
-      "ig_status": "pending",
-      "tiktok_status": "pending"
+      "ig_status": "posted",
+      "tiktok_status": "pending",
+      "ig_media_id": "18048117989841295",
+      "ig_roll": 35
     },
     {
       "id": "2026-11-25-2",
@@ -1192,8 +1194,10 @@
       "tweet_url": "https://x.com/SnoopsRoulette/status/2125681772444917785",
       "posted_at": "2026-11-25T12:03:22-08:00",
       "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-25-2.jpg",
-      "ig_status": "pending",
-      "tiktok_status": "pending"
+      "ig_status": "posted",
+      "tiktok_status": "pending",
+      "ig_media_id": "18048117989841295",
+      "ig_roll": 35
     },
     {
       "id": "2026-11-25-3",
