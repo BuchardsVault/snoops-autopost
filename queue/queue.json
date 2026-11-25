@@ -1133,7 +1133,13 @@
       "slot": 3,
       "vibe": "dark humor",
       "text": "my family doesn't need a fantasy league, they've got a running pool on which cousin moves back home next. i've been the favorite three years straight",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2125394838577418674",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2125394838577418674",
+      "posted_at": "2026-11-24T17:03:12-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-24-3.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     },
     {
       "id": "2026-11-24-4",
