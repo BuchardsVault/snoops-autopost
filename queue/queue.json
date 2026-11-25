@@ -1173,7 +1173,13 @@
       "slot": 1,
       "vibe": "gambler",
       "text": "i'll always say it first. if you fold, i lost one hand. if you don't, i just won the whole night. either way i'm not sitting here acting like i don't want the pot",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2125621670790729858",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2125621670790729858",
+      "posted_at": "2026-11-25T08:04:33-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-25-1.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     },
     {
       "id": "2026-11-25-2",
