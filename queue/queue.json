@@ -1219,7 +1219,13 @@
       "slot": 4,
       "vibe": "gambler",
       "text": "y'all read long odds like a warning. i read them like an invitation. 1 in 100 just means somebody gets to be the 1, and i already pulled up a chair",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2125817542107152442",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2125817542107152442",
+      "posted_at": "2026-11-25T21:02:52-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-25-4.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     }
   ]
 }
