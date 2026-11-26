@@ -1234,6 +1234,38 @@
       "tiktok_status": "scheduled",
       "tiktok_metricool_id": 442713627,
       "tiktok_roll": 19
+    },
+    {
+      "id": "2026-11-26-1",
+      "date": "2026-11-26",
+      "slot": 1,
+      "vibe": "stoic",
+      "text": "if they want out, i'm not gonna hold their chips hostage. you don't keep people by guarding the door. you keep your peace by not chasing anybody who already cashed out",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-26-2",
+      "date": "2026-11-26",
+      "slot": 2,
+      "vibe": "stoic",
+      "text": "used to spend every check like the next one was guaranteed. now i bet small, keep a reserve, and sleep fine. discipline is boring right up until the cold streak hits",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-26-3",
+      "date": "2026-11-26",
+      "slot": 3,
+      "vibe": "stoic",
+      "text": "the family table is gonna deal you a few hands you didn't ask for today. you don't have to play them. pass the gravy, keep your chips, and go home with your peace intact",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-26-4",
+      "date": "2026-11-26",
+      "slot": 4,
+      "vibe": "stoic",
+      "text": "the worst bets i ever made, i made angry. now when i lose a hand i wait before i touch my chips again. nothing good gets decided while your pulse is louder than your thoughts",
+      "status": "queued"
     }
   ]
 }
