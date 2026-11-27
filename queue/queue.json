@@ -1298,6 +1298,38 @@
       "tiktok_status": "scheduled",
       "tiktok_metricool_id": 443981888,
       "tiktok_roll": 20
+    },
+    {
+      "id": "2026-11-27-1",
+      "date": "2026-11-27",
+      "slot": 1,
+      "vibe": "gambler",
+      "text": "i don't do maybe. if i like you i'm pushing my whole stack to the middle where you can see it. worst case i walk home light. best case i never have to sit at another table again",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-27-2",
+      "date": "2026-11-27",
+      "slot": 2,
+      "vibe": "gambler",
+      "text": "my 9 to 5 is the safe bet and i respect it. but every night after work i'm still putting a few chips on myself, because nobody ever got free playing only the hand they were dealt",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-27-3",
+      "date": "2026-11-27",
+      "slot": 3,
+      "vibe": "gambler",
+      "text": "my whole family looked at me crazy when i left the sure thing. now they ask how i read the table so early. i didn't read nothing. i just believed in my hand more than i feared the fold",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-27-4",
+      "date": "2026-11-27",
+      "slot": 4,
+      "vibe": "gambler",
+      "text": "y'all spent today chasing deals. i'm chasing the people and plans that never go on sale. some things you only win by going all in at full price",
+      "status": "queued"
     }
   ]
 }
