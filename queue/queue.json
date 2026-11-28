@@ -1347,7 +1347,13 @@
       "slot": 4,
       "vibe": "gambler",
       "text": "y'all spent today chasing deals. i'm chasing the people and plans that never go on sale. some things you only win by going all in at full price",
-      "status": "queued"
+      "status": "posted_x",
+      "tweet_id": "2126542256366911816",
+      "tweet_url": "https://x.com/SnoopsRoulette/status/2126542256366911816",
+      "posted_at": "2026-11-27T21:02:37-08:00",
+      "image_url": "https://buchardsvault.github.io/snoops-autopost/cards/2026-11-27-4.jpg",
+      "ig_status": "pending",
+      "tiktok_status": "pending"
     }
   ]
 }
