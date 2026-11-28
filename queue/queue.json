@@ -1362,6 +1362,38 @@
       "tiktok_status": "scheduled",
       "tiktok_metricool_id": 445188559,
       "tiktok_roll": 21
+    },
+    {
+      "id": "2026-11-28-1",
+      "date": "2026-11-28",
+      "slot": 1,
+      "vibe": "street wisdom",
+      "text": "if they lie to you about the small stuff, believe it. somebody who cheats on a five dollar hand ain't suddenly getting honest when the pot gets big",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-28-2",
+      "date": "2026-11-28",
+      "slot": 2,
+      "vibe": "street wisdom",
+      "text": "quiet money stays, loud money leaves. the dude flashing his stack every weekend is usually playing with chips he don't own",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-28-3",
+      "date": "2026-11-28",
+      "slot": 3,
+      "vibe": "street wisdom",
+      "text": "my grandma never sat at a card table in her life but she could read everybody in the room. she'd clock who was fake before they finished saying hello. listen to your old heads",
+      "status": "queued"
+    },
+    {
+      "id": "2026-11-28-4",
+      "date": "2026-11-28",
+      "slot": 4,
+      "vibe": "street wisdom",
+      "text": "a real one tells you when you're about to make a bad bet. a fake one lets you push it all in just so they can say they saw it coming",
+      "status": "queued"
     }
   ]
 }
